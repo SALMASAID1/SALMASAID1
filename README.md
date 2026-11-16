@@ -1,4 +1,4 @@
-# Hi, I'm Salma Said 👋
+# Hi, I'm Salma Said 
 
 ### Data Engineering · Artificial Intelligence · Machine Learning
 
@@ -10,13 +10,13 @@ Final-year engineering student at ENSA Al Hoceima, Morocco. Interested in buildi
 
 ---
 
-## 👩‍💻 About me
+##  About me
 
 I am a final-year engineering student specializing in **Data Engineering and Artificial Intelligence**. I enjoy working across the data lifecycle — from building data pipelines and processing distributed data to developing machine learning models and integrating Generative AI capabilities into applications.
 
 My main interests are **Data Engineering, Big Data, Machine Learning, and Generative AI**. I value clean architecture, reproducible workflows, and practical solutions that connect engineering with real business needs.
 
-## 🧰 Technical skills
+##  Technical skills
 
 ### Programming languages
 
@@ -77,7 +77,7 @@ Statistical modeling · Predictive analytics · Forecasting · Anomaly detection
 
 **Cloud platforms:** Oracle Cloud Infrastructure (OCI) · Microsoft Azure · AWS
 
-## 🎯 Areas of focus
+##  Areas of focus
 
 - **Data Engineering:** batch and streaming pipelines, distributed processing, and data workflows.
 - **Machine Learning:** predictive modeling, forecasting, statistical analysis, and NLP.
