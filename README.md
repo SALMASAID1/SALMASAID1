@@ -1,4 +1,4 @@
-# Hi, I'm Salma Said 
+# Hi, I'm SALMA SAID
 
 ### Data Engineering · Artificial Intelligence · Machine Learning
 
